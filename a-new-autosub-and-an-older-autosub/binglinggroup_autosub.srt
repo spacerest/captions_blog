@@ -1,0 +1,188 @@
+1
+00:00:01,560 --> 00:00:03,710
+Welcome to the section about getting started with
+
+2
+00:00:05,290 --> 00:00:10,540
+And before we take a look at the block project that you going to be building in the session
+
+3
+00:00:10,690 --> 00:00:12,680
+Let's talk in general about
+
+4
+00:00:13,080 --> 00:00:15,690
+Why would you want to use a web framework in the first place
+
+5
+00:00:17,660 --> 00:00:19,370
+The reason for this instead the web
+
+6
+00:00:19,500 --> 00:00:23,230
+As a structure as a system grew organically like it started
+
+7
+00:00:23,290 --> 00:00:24,690
+The little seedling
+
+8
+00:00:24,890 --> 00:00:26,530
+Kept growing over time
+
+9
+00:00:26,700 --> 00:00:29,600
+Until they're like lots of new Technologies
+
+10
+00:00:30,040 --> 00:00:32,300
+Getting stuck on top of each other and can I like
+
+11
+00:00:32,700 --> 00:00:37,340
+Arrange to inter operate that is HTML CSS JavaScript
+
+12
+00:00:37,790 --> 00:00:40,150
+The databases that you have to interact with
+
+13
+00:00:40,400 --> 00:00:42,290
+There are back-end languages
+
+14
+00:00:42,310 --> 00:00:44,980
+Doesn't like Python this one of those steps
+
+15
+00:00:45,090 --> 00:00:47,010
+This database interactions with sequel
+
+16
+00:00:47,230 --> 00:00:50,050
+And it just kept growing and growing so that it's
+
+17
+00:00:50,150 --> 00:00:51,770
+Very very very big thing
+
+18
+00:00:51,960 --> 00:00:53,490
+Really
+
+19
+00:00:53,730 --> 00:00:54,540
+Complex mess
+
+20
+00:00:55,330 --> 00:00:57,520
+It's hard to get a grass but what's going on
+
+21
+00:00:57,560 --> 00:01:00,440
+And how do I cancel everything that needs to fit together
+
+22
+00:01:00,490 --> 00:01:02,740
+Probably works when tap or
+
+23
+00:01:02,880 --> 00:01:05,880
+Anything that you want to publish and there's just so much that goes into dead
+
+24
+00:01:07,170 --> 00:01:08,930
+The idea of a web framework is
+
+25
+00:01:09,400 --> 00:01:10,400
+Essentially
+
+26
+00:01:10,480 --> 00:01:13,460
+Automate repetitive web development tasks
+
+27
+00:01:13,950 --> 00:01:18,720
+It allows you to extract database interactions so you maybe don't have to write sequel
+
+28
+00:01:18,800 --> 00:01:21,410
+Is a pure language than cutting down one of them
+
+29
+00:01:21,550 --> 00:01:23,770
+Languages you need to know for web development
+
+30
+00:01:24,180 --> 00:01:27,320
+It handles your request and your elves nothing for you
+
+31
+00:01:27,730 --> 00:01:29,320
+Templating framework
+
+32
+00:01:29,340 --> 00:01:32,670
+Accent allowed to do to generate HTML sites on the go
+
+33
+00:01:33,050 --> 00:01:35,500
+With like a language that is more familiar to you
+
+34
+00:01:35,880 --> 00:01:36,880
+And it helps
+
+35
+00:01:36,960 --> 00:01:40,010
+With security caching sessions at
+
+36
+00:01:40,810 --> 00:01:41,930
+With all of these things
+
+37
+00:01:42,420 --> 00:01:43,580
+And to
+
+38
+00:01:43,720 --> 00:01:44,830
+Sum it up in one
+
+39
+00:01:45,890 --> 00:01:46,790
+Web development
+
+40
+00:01:48,640 --> 00:01:49,510
+Web frameworks
+
+41
+00:01:50,050 --> 00:01:51,380
+Is web development
+
+42
+00:01:53,150 --> 00:01:56,090
+That's why you would want to work in general
+
+43
+00:01:56,310 --> 00:02:00,450
+And the next video we going to talk about why you would want Django as a web framework
+
+44
+00:02:02,150 --> 00:02:03,640
+
+
+45
+00:02:03,670 --> 00:02:04,500
+
+
+46
+00:02:05,030 --> 00:02:05,880
+
+
+47
+00:02:06,030 --> 00:02:07,850
+
+
